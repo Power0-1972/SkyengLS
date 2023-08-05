@@ -29,5 +29,6 @@
 6. Провел тестирование
    - [Smoke](https://github.com/Power0-1972/SkyengLS/blob/main/K1K-Test%2Brun%2B2023_03_26.pdf)
    - [Приемочное](https://github.com/Power0-1972/SkyengLS/blob/main/K1K-Test%2Brun%2B2023_03_27.pdf)
+   - [Регессионное](https://github.com/Power0-1972/SkyengLS/blob/main/%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%201%20%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD.pdf)
 8. Создал отчет о дефектах
 9. Составил отчет о тестирование
